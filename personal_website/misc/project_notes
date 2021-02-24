@@ -22,4 +22,8 @@ Install Environment Dependencies: pip3 install django==3.1.6
 
 Quit Virtual Environment: 'deactivate' 'exit'
 
-TODO: 
+
+Docker:
+
+Rebuild Source: docker-compose build
+Deploy Latest Source: docker-compose up 
